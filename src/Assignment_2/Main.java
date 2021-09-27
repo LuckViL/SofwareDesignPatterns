@@ -12,6 +12,5 @@ public class Main {
         xeCom.registerUser(client1);
 
         xeCom.setRUBPrice(5.98);
-        xeCom.setRUBPrice(5.86);
     }
 }
