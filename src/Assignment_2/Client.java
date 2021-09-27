@@ -9,6 +9,6 @@ public class Client implements IObserver{
 
     @Override
     public void update(double USD, double RUB, double EUR) {
-        System.out.println("Dear " + this.name + ", we have changes in currencies: \n1 USD: " + USD + "tg\n1 RUB: " + RUB + "tg\n1 EUR: " + EUR +"tg\n");
+        System.out.println("Dear " + this.name + ", we have changes in currencies: \n1 USD: " + USD + " KZT\n1 RUB: " + RUB + " KZT\n1 EUR: " + EUR +" KZT\n");
     }
 }
