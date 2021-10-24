@@ -1,4 +1,4 @@
-package PracticeWork.BrigePattern;
+package PracticeWork.BridgePattern;
 
 public class ComputerMac extends Computer{
     public ComputerMac() {

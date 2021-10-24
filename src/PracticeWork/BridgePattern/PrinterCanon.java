@@ -1,4 +1,4 @@
-package PracticeWork.BrigePattern;
+package PracticeWork.BridgePattern;
 
 public class PrinterCanon implements IPrinter{
     @Override

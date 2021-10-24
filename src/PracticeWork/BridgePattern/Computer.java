@@ -1,4 +1,4 @@
-package PracticeWork.BrigePattern;
+package PracticeWork.BridgePattern;
 
 public abstract class Computer {
     protected IPrinter printer;

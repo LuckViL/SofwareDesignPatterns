@@ -1,4 +1,4 @@
-package PracticeWork.BrigePattern;
+package PracticeWork.BridgePattern;
 
 public class Main {
     public static void main(String[] args){

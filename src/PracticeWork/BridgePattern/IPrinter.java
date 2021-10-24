@@ -1,4 +1,4 @@
-package PracticeWork.BrigePattern;
+package PracticeWork.BridgePattern;
 
 public interface IPrinter {
     void print();
